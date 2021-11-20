@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Shubhcs01
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning web development.
-- 📫 My Instagram Id is shubham.gupta.014
+- 👋 Hi, I’m Shubham Gupta
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Web Development.
+- 📫 Social links -> 
+       [Instagram](https://www.instagram.com/shubham.gupta.014) ,
+       [LinkedIn](https://www.linkedin.com/in/shubham-gupta-b521071b3)
+        
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhcs01&&show_icons=true&title_color=00FF00&icon_color=0096FF&text_color=daf7dc&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhcs01&&show_icons=true&title_color=0096FF&icon_color=0096FF&text_color=151515&bg_color=FFFFFF)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhcs01)](https://github.com/anuraghazra/github-readme-stats)
