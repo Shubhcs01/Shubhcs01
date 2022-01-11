@@ -4,6 +4,8 @@
 - 📫 Social links -> 
        [Instagram](https://www.instagram.com/shubham.gupta.014) ,
        [LinkedIn](https://www.linkedin.com/in/shubham-gupta-b521071b3)
+       
+       [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhcs01)](https://github.com/anuraghazra/github-readme-stats)
         
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhcs01)](https://github.com/anuraghazra/github-readme-stats)
