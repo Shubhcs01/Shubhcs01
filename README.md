@@ -10,7 +10,7 @@
 
 <!-- - 👋 Hi, I’m Shubham Gupta -->
 - 🌱 I’m currently working on Javascript, Node.js and Express.js.
-- 👀 I’m also Postman Student Expert.
+- 👀 Postman Student Expert.
 - 💬 Ask me about **Java/C++, Data Structures, Algorithms, Web Development**
 - 📫 How to reach me **shubhcs01@gmail.com**
 
