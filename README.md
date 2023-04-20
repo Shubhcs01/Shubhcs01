@@ -13,10 +13,12 @@
 - 📫 How to reach me **shubhcs01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubham.gupta.014) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamabes)
-<br>
-[![Holopin](https://holopin.onrender.com/shubhamgupta28)](https://holopin.io/@shubhamgupta28?style=for-the-badge)
+<p align="left">
+<a href="https://linkedin.com/in/Shubh4amg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubh4amg" height="30" width="40" /></a>
+<a href="https://instagram.com/shubham_gupta_028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham_gupta_028" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shubhcs01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhcs01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Shubhcs28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shubhcs28" height="30" width="40" /></a>
+</p>
 
 ## 💻 Tech Stack
 
@@ -29,13 +31,13 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhcs01&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhcs01&theme=github"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubhcs01&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhcs01&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubhcs01&show_icons=true&theme=github" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhcs01&theme=github" />
 </p>
 
 
