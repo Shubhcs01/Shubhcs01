@@ -42,7 +42,9 @@
 
 [![Shubhcs01's GitHub | Stats](https://stats.quine.sh/Shubhcs01/github?theme=light)](https://quine.sh)
 
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Shubhcs01&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="Shubham' profile views" />
+</p>
 ---
 
 
