@@ -40,6 +40,8 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhcs01&theme=github" />
 </p>
 
+[![Shubhcs01's GitHub | Stats](https://stats.quine.sh/Shubhcs01/github?theme=light)](https://quine.sh)
+
 
 ---
 
