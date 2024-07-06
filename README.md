@@ -47,7 +47,7 @@
     <img src="https://stats.quine.sh/Shubhcs01/github?theme=light" alt="Shubhcs01's GitHub | Stats">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhcs01&layout=compact">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhcs01">
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <p align="right">
 	
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤ by starring some of the repositories! 🌟
   <img src="https://komarev.com/ghpvc/?username=Shubhcs01&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="Shubham' profile views" />
 </p>
 
