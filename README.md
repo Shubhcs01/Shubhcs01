@@ -2,15 +2,15 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Shubham Gupta</h1>
-<h3 align="center">Full Stack Web Developer | Open Source Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <br>
 
 <!-- - 👋 Hi, I’m Shubham Gupta -->
-- 🌱 I’m currently working on DSA and Problem Solving...
-- 👀 Postman Student Expert.
-- 💬 Ask me about **Java/C++, Data Structures, Algorithms, Web Development**
-- 📫 How to reach me **shubhcs01@gmail.com**
+- 💼 I’m currently working as a **Software Engineer** in a product-based company.
+- 👨🏻‍💻 Skiled in **Java, Spring Boot, ReactJS, ExpressJS, NodeJS, MongoDB, SQL**.
+- 💬 Ask me about **Anything**
+- 📫 Reach me at **shubhamgzp010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
