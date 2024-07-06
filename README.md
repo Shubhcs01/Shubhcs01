@@ -40,11 +40,19 @@
 	<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhcs01&theme=github" />
 </p>
 
-<p  align="center">
-	[![Shubhcs01's GitHub | Stats](https://stats.quine.sh/Shubhcs01/github?theme=light)](https://quine.sh)
 
-	[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shubhcs01)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<div align="center">
+
+  <a href="https://quine.sh">
+    <img src="https://stats.quine.sh/Shubhcs01/github?theme=light" alt="Shubhcs01's GitHub | Stats">
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shubhcs01" alt="Harlok's WakaTime stats">
+  </a>
+
+</div>
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Shubhcs01&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="Shubham' profile views" />
