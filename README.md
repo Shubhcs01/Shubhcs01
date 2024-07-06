@@ -46,24 +46,23 @@
   <a href="https://quine.sh">
     <img src="https://stats.quine.sh/Shubhcs01/github?theme=light" alt="Shubhcs01's GitHub | Stats">
   </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shubhcs01" alt="Harlok's WakaTime stats">
-  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhcs01&layout=compact">
 
 </div>
 
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Shubhcs01&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="Shubham' profile views" />
-</p>
 <hr>
+
+
 
 
 <div align="center">
 
+
+<p align="right">
+	
 ### Show some ❤️ by starring some of the repositories!
+  <img src="https://komarev.com/ghpvc/?username=Shubhcs01&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="Shubham' profile views" />
+</p>
 
 </div>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubhcs01&show_icons=true&locale=en&layout=compact" alt="Shubhcs01" /></p> -->
