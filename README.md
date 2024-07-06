@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Shubh4amg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubh4amg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-gupta-b521071b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubh4amg" height="30" width="40" /></a>
 <a href="https://instagram.com/shubham_gupta_028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham_gupta_028" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhcs01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhcs01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Shubhcs28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shubhcs28" height="30" width="40" /></a>
