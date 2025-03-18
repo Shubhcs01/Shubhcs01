@@ -22,7 +22,7 @@
 
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Shub4amg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhcs01) [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116.svg?logo=LeetCode&logoColor=black)](https://www.leetcode.com/Shubhcs28) [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866.svg?logo=Hackerrank&logoColor=black)](https://www.leetcode.com/Shubhcs28)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Shub4amg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhcs01) [![Leetcode](https://img.shields.io/badge/Leetcode-FFA116.svg?logo=LeetCode&logoColor=black)](https://www.leetcode.com/) [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866.svg?logo=Hackerrank&logoColor=black)](https://www.leetcode.com/Shubhcs28)
 
 <!-- <h4 align="left">🌐 Social links</h4>
 <p align="left">
